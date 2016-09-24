@@ -2,7 +2,7 @@
 Coursera Getting and Cleaning Data Course Project
 
 ## Purpose
-To demonstrate and apply knowledge and skills acquired in the course to prepare tidy data using R.
+To demonstrate and apply knowledge and skills acquired in the course to prepare a tidy data using R.
 
 ## Project Summary
 1. Download data to working directory
