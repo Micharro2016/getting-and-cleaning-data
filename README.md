@@ -15,4 +15,4 @@ Below are the project's steps for creating a tidy data set. The data used for th
 6. Create a final Independent tidy data set, with the average of each variable for each activity/ subject
 
 ## Project Variables and Calculations
-Refer to the Codebokk.MD final for detailed information regarding the variables and the calculations used for this project. 
+Refer to the Codebook.MD final for detailed information regarding the variables and the calculations used for this project. 
