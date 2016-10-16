@@ -19,7 +19,7 @@ Wearable Computing data from Samsung's Galaxy smartphone.
 
 One data set was created by merging the training and the test sets. 
 
-###The following data sets were created first by mergin training and test data
+####The following data sets were created first by mergin training and test data
 •	Subject data set <br />
 •	Activity data set <br />
 •	Features data set <br />
