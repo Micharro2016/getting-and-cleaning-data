@@ -13,4 +13,4 @@ Wearable Computing data from Samsung's Galaxy smartphone.
 •	Data from volunteers wearing a Samsung Galaxy Smartphone on the waist <br />
 •	Total number of Volunteers 30, within the age group 19 to 48 <br />
 •	Volunteers performed six activities: walking, walking_upstairs, walking_downstairs, sitting, standing and laying <br />
-•	Dataset randomly portioned into two (70% of volunteers generetaed the training data and the rest the test data) <br />
+•	Dataset randomly partitioned into two (70% of volunteers generetaed the training data and the rest the test data) <br />
