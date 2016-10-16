@@ -26,7 +26,18 @@ Wearable Computing data from Samsung's Galaxy smartphone.
 
 The one Data set was then created by firstly merging the Subject and Activity data sets and the resulting one was then merged with the Features data set. Finally, the required data was extracted from the One Data Set (measurements on the mean and standard deviation for each observation).
 
-2. Tyde Data set
+2.  Tidy Data set
+
+Descriptive Activity Labels were added to the data set. 
+
+The following descriptive variables were created:
+
+-Time, Frequency, Accelerometer, Gyroscope, Body, Magnitude, TimeBody. 
+
+3.  Independent tidy data set
+
+From the data set created in step 3, a new independent tidy data set was created, with the average of each variable for each Activity/ Subject.
+
 
 
 
