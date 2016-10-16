@@ -19,7 +19,12 @@ Wearable Computing data from Samsung's Galaxy smartphone.
 
 One data set was created by merging the training and the test sets. 
 
-####The following data sets were created first by mergin training and test data
+####The following data sets were created first by merging the training and test data
 •	Subject data set <br />
 •	Activity data set <br />
 •	Features data set <br />
+
+The one Data set was then created by firstly merging the Subject and Activity data sets and the resulting one was then merged with the Features data set. Finally, the required data was extracted from the One Data Set (measurements on the mean and standard deviation for each observation).
+
+
+
