@@ -28,7 +28,7 @@ The one Data set was then created by firstly merging the Subject and Activity da
 
 2.  Tidy Data set
 
-Descriptive Activity Labels were added to the data set. 
+####Descriptive Activity Labels were added to the data set. 
 
 The following descriptive variables were created:
 
@@ -36,7 +36,7 @@ The following descriptive variables were created:
 
 3.  Independent tidy data set
 
-From the data set created in step 3, a new independent tidy data set was created, with the average of each variable for each Activity/ Subject.
+From the data set created in step 3, a new and final independent tidy data set was created, with the average of each variable for each Activity/ Subject.
 
 
 
