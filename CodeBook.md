@@ -34,7 +34,7 @@ The following descriptive variables were created:
 
 -Time, Frequency, Accelerometer, Gyroscope, Body, Magnitude, TimeBody.  
 
-####3.Independent tidy data set
+####3.Independent tidy data set 
 
 From the data set created in step 3, a new and final independent tidy data set was created, with the average of each variable for each Activity/ Subject.
 
