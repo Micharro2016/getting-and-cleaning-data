@@ -65,7 +65,7 @@ Data <- merge(Data, activity_Labels, by.x = "activity", by.y = "activityID")
 
 ## ==> Factorize
 #check
-edit(Data)
+#edit(Data)
 
 #4. Appropriately labels the data set with descriptive variable names.
 
