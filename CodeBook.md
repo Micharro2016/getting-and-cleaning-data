@@ -32,7 +32,7 @@ The one Data set was then created by firstly merging the Subject and Activity da
 
 The following descriptive variables were created:
 
--Time, Frequency, Accelerometer, Gyroscope, Body, Magnitude, TimeBody. 
+-Time, Frequency, Accelerometer, Gyroscope, Body, Magnitude, TimeBody.  
 
 ####3.Independent tidy data set
 
